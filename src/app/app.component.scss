@@ -25,7 +25,7 @@ table {
 .box {
   padding: 1em;
   width: 40px;
-  height: 40px;
+  height: min-content;
   border: solid 1px #ccc;
   cursor: move;
   text-align: center;
